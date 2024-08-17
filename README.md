@@ -1,1 +1,1 @@
-# MLScratch
+This repo has fundamental machine learning components implementation from scratch. This is to build a deeper understanding of the components.
